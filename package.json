@@ -1,7 +1,7 @@
 {
   "name": "lucid-tabs",
   "main": "./lib/lucid-tabs",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Adds color to the text of atom tabs depending on the filename.",
   "keywords": [
     "tabs",
