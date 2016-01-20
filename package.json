@@ -1,14 +1,16 @@
 {
-  "name": "rainbow-tabs",
-  "main": "./lib/rainbow-tabs",
-  "version": "2.2.1",
-  "description": "Adds color to the text of atom tabs, according to file extension (e.g. JS tabs are yellow)",
+  "name": "lucid-tabs",
+  "main": "./lib/lucid-tabs",
+  "version": "1.0.0",
+  "description": "Adds color to the text of atom tabs using regex expressions.",
   "keywords": [
     "tabs",
+    "lucid",
     "color",
-    "extension"
+    "file",
+    "filenames"
   ],
-  "repository": "https://github.com/graemeboy/rainbow-tabs",
+  "repository": "https://github.com/nmai/lucid-tabs",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
